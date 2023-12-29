@@ -4,7 +4,7 @@
 Здесь находятся проекты реализованные в рамках прохождения курса "Аналитик данных" от Яндекс Практикума
 ### Hard skills:
 * Python
-    - Библиотеки: Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Plotly, Seaborn
+    - Библиотеки: Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Plotly, Seaborn, Scikit-learn
 * SQL
     - Агрегирующие функции
     - Подзапросы
